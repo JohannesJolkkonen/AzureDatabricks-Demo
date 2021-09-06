@@ -1,5 +1,5 @@
 ### Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory
-
+<div style="text-align:center"><img src="https://github.com/JohannesJolkkonen/AzureDatabricks-Demo/blob/master/images/architecture.png" width=60% height=60%></img></div>
 ## Data Ingestion
 
 ### Circuits 
