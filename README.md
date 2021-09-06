@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 # Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory
 <p style="text-align:center"><img src="./images/architecture.png" width=80% height=80%/></p>
 ## Data Ingestion
+=======
+<h1 align="center"> Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory </h1>
 
+<p align="center">
+  <img src="https://github.com/JohannesJolkkonen/AzureDatabricks-Demo/blob/master/images/architecture.png" width=70% height=70%/>
+</p>
+>>>>>>> 9f609311cb29bb3a0c0d1f3a609182187b1a0317
+
+## Data Ingestion
 ### Circuits 
 ### Races
 
