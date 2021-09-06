@@ -1,4 +1,4 @@
-<h1 align="center> Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory </h1>
+<h1 align="center"> Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory </h1>
 
 <p align="center">
   <img src="https://github.com/JohannesJolkkonen/AzureDatabricks-Demo/blob/master/images/architecture.png" width=70% height=70%/>
