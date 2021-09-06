@@ -1,5 +1,3 @@
-# Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory
-
 <h1 align="center"> Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory </h1>
 
 <p align="center">
