@@ -1,6 +1,6 @@
 ### Data Engineering using Azure Databricks, Delta Lake and Azure Data Factory
 
-<p style="text-align:center">
+<p align="center">
   <img src="https://github.com/JohannesJolkkonen/AzureDatabricks-Demo/blob/master/images/architecture.png" width=70% height=70%/>
 </p>
 
